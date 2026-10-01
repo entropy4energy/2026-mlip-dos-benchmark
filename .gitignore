@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+*.aselmdb
+*.log
+extended_output/
+summary_output/
+test_output*/
+raw_figures/
+composition_table.tex
+figure3_statistics.tex

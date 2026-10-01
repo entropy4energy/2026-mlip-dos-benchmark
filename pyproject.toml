@@ -1,0 +1,18 @@
+[project]
+name = "2026-mlip-dos-benchmark"
+version = "0.1.0"
+description = "Data collection and analysis pipeline for MLIP density-of-states benchmarking"
+requires-python = ">=3.13"
+dependencies = [
+    "ase",
+    "pymatgen",
+    "scikit-learn",
+    "numpy",
+    "scipy",
+    "matplotlib",
+    "tqdm",
+    "lmdb",
+    "loguru",
+    "ase-db-backends",
+    "seaborn>=0.13.2",
+]
